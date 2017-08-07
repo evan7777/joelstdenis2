@@ -1,0 +1,20 @@
+# Site settings
+title: joelstdenis
+email: 
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "https://evan7777.github.io/joelstdenis/properties" # the subpath of your site, e.g. /blog/
+url: "https://evan7777.github.io/joelstdenis/properties" # the base hostname & protocol for your site
+author:
+  name: joel stdenis
+  url: https://evan7777.github.io/joelstdenis/properties
+  email: boa.eorchard@gmail.com
+
+languages: ["en", "fr"]
+
+exclude_from_localizations: ["js", "img", "css", "_sass"]
+
+twitter_username:
+github_username: 
+
+# Build settings
+markdown: kramdown
