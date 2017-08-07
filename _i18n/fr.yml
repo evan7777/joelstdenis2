@@ -1,0 +1,11 @@
+site:
+  name: Joel St-Denis
+  tagline: Courtier Immobilier
+  description: Site Immobilier
+  keywords: 
+
+main:
+  welcomeSection:
+    anchor: bienvenue
+    heading: Bienvenue au site
+    p1: Des milliers de personnes ont aimez ce site. Et vous?

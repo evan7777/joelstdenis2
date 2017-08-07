@@ -1,0 +1,11 @@
+site:
+  name: Joel St-Denis
+  tagline: Real Estate Agent
+  description: Real Estate Site
+  keywords: 
+
+main:
+  welcomeSection:
+    anchor: welcome
+    heading: Welcome to JSTD.ca
+    p1: Hundreds of thousands of people are amazed by this site. Are you?

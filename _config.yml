@@ -13,6 +13,11 @@ languages: ["en", "fr"]
 
 exclude_from_localizations: ["js", "img", "css", "_sass"]
 
+defaultLang: en
+languageNames:
+  en: English
+  fr: French
+
 twitter_username:
 github_username: 
 
